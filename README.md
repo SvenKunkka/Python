@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 
 # My Python Examples.
 
@@ -49,3 +53,32 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 
 - `get_youtube_view.py` - This is very simple python script to get more views for your youtube videos.Some times I use for repeating my favorite songs by this scripts.
 - `CountMillionCharacter.py` - This Script will,counting character script, count how much character present *any text based file.
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+来自 geekcomputers/Python 的个人 Fork，保留原作者的 Python 学习示例和日常脚本，涵盖文件信息、目录统计、批量改名、日志整理及网络查询等任务。
+
+**使用入口：** 按原 README 的脚本清单选择需要的示例，先阅读对应源文件中的输入、路径和依赖，再在适合的环境中使用。
+
+**范围说明：** 这些是独立实验脚本，并非统一安装的软件包；部分操作会修改文件或访问网络，原作者归属保留。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A personal fork of geekcomputers/Python, preserving the original author’s learning examples and utility scripts for file information, directory statistics, batch renaming, log handling and network queries.
+
+**Getting started:** Choose an example from the script list in the original README, then review its inputs, paths and dependencies in the source before using it in an appropriate environment.
+
+**Scope:** These are independent experimental scripts, not a unified installable application. Some modify files or access networks; original authorship is preserved.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [geekcomputers/Python](https://github.com/geekcomputers/Python)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
